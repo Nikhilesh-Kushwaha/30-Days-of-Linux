@@ -1,0 +1,22 @@
+Linux File System & Navigation:
+
+1️⃣ pwd - Displays the current working directory.
+   📝 Use this to check where you are in the system.
+
+2️⃣ ls - Lists files and directories.
+   📝 Use 'ls' to view the contents of a folder.
+
+3️⃣ ls -l - Shows detailed file information.
+   📝 Use 'ls -l' when you need permissions, file size, and timestamps.
+
+4️⃣ ls -a - Lists hidden files.
+   📝 Hidden files start with '.' (dot), like '.bashrc'.
+
+5️⃣ cd [directory] - Moves into a directory.
+   📝 Example: 'cd /home' moves you to the home directory.
+
+6️⃣ cd .. - Moves up one directory.
+   📝 Use 'cd ..' to go one level up.
+
+7️⃣ tree - Displays directory structure in a tree format.
+   📝 This helps visualize nested folders.
