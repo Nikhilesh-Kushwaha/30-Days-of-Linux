@@ -12,9 +12,11 @@ A structured journey to learn Linux hands-on with daily exercises, using WSL (Ub
 - Used commands like `pwd`, `ls`, `cd`, `tree` for navigation  
 - Documented everything in `Day-1.txt`  
 
-📅 **Day 2: File Management** 🔄 _(To be completed)_  
-- Will cover `mkdir`, `touch`, `rm`, `cp`, `mv`  
-- Hands-on exercises will be documented in `Day-2.txt`  
+## 📅 Day 2: File Management ✅  
+- Learned file operations (`touch`, `mkdir`, `rm`, `mv`, `cp`)  
+- Practiced **creating, renaming, copying, and deleting files**  
+- Documented learning in `Day-02/Day-2.txt`
+  
 
 ## 🚀 How to Start  
 Clone the repository:  

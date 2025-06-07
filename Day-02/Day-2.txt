@@ -1,0 +1,9 @@
+Linux File Management:
+
+1️⃣ touch - Creates an empty file
+2️⃣ mkdir - Creates a new directory
+3️⃣ mv - Moves or renames a file
+4️⃣ cp - Copies a file
+5️⃣ rm - Deletes a file
+6️⃣ rmdir - Deletes an empty directory
+7️⃣ rm -r - Deletes a directory with its contents
